@@ -23,5 +23,5 @@ terraform deploy
 ## Publish Content
 
 ```bash
-./publish.sh
+./publish
 ```
