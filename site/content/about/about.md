@@ -4,7 +4,7 @@ date: 2020-01-05T12:00:00-06:00
 draft: false
 ---
 
-# Static Website
+# [static-website.com](https://static-website.com/)
 
 A simple static website.
 
