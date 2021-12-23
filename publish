@@ -8,7 +8,7 @@
 #   publish
 
 function usage {
-  echo 'usage: abc'
+  echo 'usage: publish'
 }
 
 # Change directory to Terraform module
