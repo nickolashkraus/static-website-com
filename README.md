@@ -1,5 +1,7 @@
 # Static Website
 
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/NickolasHKraus/static-website-com/blob/master/LICENSE)
+
 A simple static website.
 
 The GitHub repository for this site can be found [here](https://github.com/NickolasHKraus/static-website-com).
