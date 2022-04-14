@@ -1,4 +1,4 @@
-# [static-website.com](https://static-website.com/)
+# [Static-Website.com](https://static-website.com)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/NickolasHKraus/static-website-com/blob/master/LICENSE)
 
