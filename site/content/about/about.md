@@ -18,7 +18,7 @@ terraform plan
 terraform deploy
 ```
 
-**Note**: The Amazon CloudFront distribution can take up to 30 minutes to provision.
+**NOTE**: The Amazon CloudFront distribution can take up to 30 minutes to provision.
 
 ## Publish Content
 
