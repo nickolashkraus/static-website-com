@@ -8,7 +8,7 @@ draft: false
 
 A simple static website.
 
-The GitHub repository for this site can be found [here](https://github.com/NickolasHKraus/static-website-com).
+The GitHub repository for this site can be found [here](https://github.com/nickolashkraus/static-website-com).
 
 ## Deploy
 
