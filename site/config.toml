@@ -14,13 +14,6 @@ googleAnalytics = ""
   siteName = "Static Website"
   dateFormat = "January 2, 2006"
 
-[[params.social]]
-  email = "0x@nickolaskraus.io"
-  github = "https://github.com/nickolashkraus"
-  linkedin = "https://linkedin.com/in/nickolas-kraus"
-  stackoverflow = "https://stackoverflow.com/users/9659079/nickolashkraus"
-  twitter = "https://twitter.com/nickolashkraus"
-
 [[menu.main]]
     name = "About"
     url  = "/about"
