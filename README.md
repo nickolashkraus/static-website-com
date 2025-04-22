@@ -11,7 +11,7 @@ The GitHub repository for this site can be found [here](https://github.com/nicko
 ```bash
 terraform init
 terraform plan
-terraform deploy
+terraform apply
 ```
 
 **NOTE**: The Amazon CloudFront distribution can take up to 30 minutes to provision.
